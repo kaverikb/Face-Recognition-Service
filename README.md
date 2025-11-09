@@ -219,7 +219,5 @@ Edit src/config.py to customize:
 - BLUR_THRESHOLD
 
 ## Documentation
+Detailed methodology and results available at: https://drive.google.com/file/d/1xWHG6AOChypFK3dx-IF_nkG2FtwvGgxN/view?usp=sharing
 
-README.md: Quick start and overview
-REPORT.md: Detailed methodology and results
-API Docs: Available at http://localhost:8000/docs
