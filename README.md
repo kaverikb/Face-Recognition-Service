@@ -23,7 +23,7 @@ This system implements a complete face recognition pipeline:
 
 ## Gallery
 
-4 Identities with 5 images each = 20 embeddings in databas
+4 Identities with 5 images each = 20 embeddings in database
 
 ## Quick Start
 
