@@ -1,0 +1,10 @@
+﻿venv/
+models/detection/*.pth
+models/detection/*.onnx
+models/embedding/*.pth
+models/embedding/*.onnx
+data/gallery.db
+demo/*.mp4
+.insightface/
+__pycache__/
+*.pyc
