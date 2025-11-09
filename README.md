@@ -161,11 +161,6 @@ Run benchmarks:
 python scripts/benchmark_cpu.py
 ```
 
-Open notebooks:
-```bash
-jupyter notebook
-```
-
 ## Technologies
 
 Detection: RetinaFace (ONNX)
