@@ -144,10 +144,10 @@ Recognition Accuracy:
 - Top-10 Accuracy: 99.2%
 
 Per-Identity Accuracy:
-- janhvi: 100%
-- kaveri: 100%
-- valli: 100%
-- varsha: 100%
+- person1: 100%
+- person2: 100%
+- person3: 100%
+- person4: 100%
 
 ## Testing
 
