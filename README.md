@@ -86,13 +86,6 @@ FRS/
 │   ├── init_db.py                # Database initialization
 │   └── download_models.py        # Model download
 │
-├── notebooks/                     
-│   ├── 01_data_prep.ipynb        
-│   ├── 02_alignment_study.ipynb  
-│   ├── 03_comprehensive_evaluation.ipynb
-│   ├── 04_failure_analysis.ipynb 
-│   └── 05_benchmarking_results.ipynb
-│
 ├── data/
 │   ├── gallery_images/           # 20 reference images
 │   └── gallery.db                # SQLite database
