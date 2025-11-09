@@ -23,14 +23,7 @@ This system implements a complete face recognition pipeline:
 
 ## Gallery
 
-4 Identities with 5 images each = 20 embeddings in database
-
-| Identity | Images | Status |
-|----------|--------|--------|
-| janhvi | 5 | Active |
-| kaveri | 5 | Active |
-| valli | 5 | Active |
-| varsha | 5 | Active |
+4 Identities with 5 images each = 20 embeddings in databas
 
 ## Quick Start
 
